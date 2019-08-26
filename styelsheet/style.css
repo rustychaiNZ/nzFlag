@@ -1,0 +1,39 @@
+*{
+	box-sizing: border-box;
+	padding: 0;
+	margin: 0;
+}
+
+#nzFlag{
+	/*background: black;*/
+}
+#unionJack{
+	width: 100%;
+	height: 110%;
+}
+#southernCross{
+	width: 100%;
+}
+.nz-flag{
+	background: #00247d;
+}
+.rectangle{
+	height: 400px;
+	width: 800px;
+	margin-top: 25vh;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.union-jack-container{
+	width: 325px;
+	height: auto;
+	float: left;
+}
+.south-cross-container{
+	width: 225px;
+	margin-top: 30px;
+	margin-right: 60px;
+	height: auto;
+	float: right;
+}
